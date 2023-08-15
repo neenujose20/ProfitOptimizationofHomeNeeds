@@ -1,1 +1,4 @@
-# ProfitOptimizationofHomeNeeds
+# Profit optimization of home needs
+This project outlines how Home Needs, a small home appliances company based in California, tackled their ordering problem. They sought to optimize their ordering process to ensure they have enough inventory to meet customer demand and maximize profits.
+Using an integer programming approach, Home Needs conducted a prescriptive analysis to determine the optimal quantity of units to order from their supplier for each category of home appliance. The model considered various factors, constraints, and decision variables to optimize their ordering process. Sensitivity analyses were also conducted to determine how changes in different factors would impact the optimal solution.
+As a result of the prescriptive analysis, Home Needs was able to maximize their profits by ordering the right quantity of each appliance category. The company was able to make data-driven decisions, improve their ordering process, and achieve their goal of optimizing their profit. The analysis allowed Home Needs to make informed decisions and adjust their strategy accordingly to achieve their goals.
